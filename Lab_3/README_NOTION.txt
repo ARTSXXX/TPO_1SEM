@@ -1,1 +1,1 @@
-Ссылка на NOTION - https://best-digit-fed.notion.site/Lab-3-OZON-76eee2365a484ffe9e4edb1811fb244b?pvs=4
+Ссылка на NOTION - https://best-digit-fed.notion.site/Lab-3-OZON-76eee2365a484ffe9e4edb1811fb244b?pvs=25
