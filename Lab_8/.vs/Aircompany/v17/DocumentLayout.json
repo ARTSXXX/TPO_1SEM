@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A44D85-619E-4685-BB91-04882523B2F3}|AircompanyTests\\AircompanyTests.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompanytests\\tests\\airporttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A44D85-619E-4685-BB91-04882523B2F3}|AircompanyTests\\AircompanyTests.csproj|solutionrelative:aircompanytests\\tests\\airporttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\planes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\planes\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\models\\experimentaltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\models\\experimentaltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\aircompany\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\planes\\passengerplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\planes\\passengerplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\planes\\militaryplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\planes\\militaryplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\models\\militarytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\models\\militarytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|e:\\study\\tpo_2\\tpo_1sem\\net\\aircompany\\models\\classificationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC927B58-6F9D-4F55-B44C-711874980B83}|Aircompany\\Aircompany.csproj|solutionrelative:aircompany\\models\\classificationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirportTest.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\AircompanyTests\\Tests\\AirportTest.cs",
+              "RelativeDocumentMoniker": "AircompanyTests\\Tests\\AirportTest.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\AircompanyTests\\Tests\\AirportTest.cs",
+              "RelativeToolTip": "AircompanyTests\\Tests\\AirportTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:25:18.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Planes\\Plane.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Planes\\Plane.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Planes\\Plane.cs",
+              "RelativeToolTip": "Aircompany\\Planes\\Plane.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:19:24.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassengerPlane.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Planes\\PassengerPlane.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Planes\\PassengerPlane.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Planes\\PassengerPlane.cs",
+              "RelativeToolTip": "Aircompany\\Planes\\PassengerPlane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:22:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MilitaryPlane.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Planes\\MilitaryPlane.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Planes\\MilitaryPlane.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Planes\\MilitaryPlane.cs",
+              "RelativeToolTip": "Aircompany\\Planes\\MilitaryPlane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:21:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MilitaryType.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Models\\MilitaryType.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Models\\MilitaryType.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Models\\MilitaryType.cs",
+              "RelativeToolTip": "Aircompany\\Models\\MilitaryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:21:12.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExperimentalTypes.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Models\\ExperimentalTypes.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Models\\ExperimentalTypes.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Models\\ExperimentalTypes.cs",
+              "RelativeToolTip": "Aircompany\\Models\\ExperimentalTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:21:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassificationLevel.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Models\\ClassificationLevel.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Models\\ClassificationLevel.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Models\\ClassificationLevel.cs",
+              "RelativeToolTip": "Aircompany\\Models\\ClassificationLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:21:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Runner.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Runner.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Runner.cs",
+              "RelativeToolTip": "Aircompany\\Runner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:17:04.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Airport.cs",
+              "RelativeDocumentMoniker": "Aircompany\\Airport.cs",
+              "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Net\\Aircompany\\Airport.cs",
+              "RelativeToolTip": "Aircompany\\Airport.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:16:38.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
