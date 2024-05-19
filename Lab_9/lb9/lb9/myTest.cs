@@ -23,8 +23,7 @@ namespace lb9
         {
 
             driver.Navigate().GoToUrl("https://ozon.by/");
-            driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(30);
-            
+            driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(300);
             driver.FindElement(By.XPath("//*[@id=\"stickyHeader\"]/div[2]/div/div/form/div[1]/div[2]/input[1]")).Click();
             driver.FindElement(By.XPath("//*[@id=\"stickyHeader\"]/div[2]/div/div/form/div[1]/div[2]/input[1]")).SendKeys("Смартфон Apple iPhone 12 eSIM+SIM 64 ГБ, белый");
             driver.FindElement(By.XPath("//*[@id=\"stickyHeader\"]/div[2]/div/div/form/div[1]/div[2]/input[1]")).SendKeys(Keys.Enter);

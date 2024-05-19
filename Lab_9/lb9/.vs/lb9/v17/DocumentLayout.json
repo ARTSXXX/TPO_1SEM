@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\mytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\mytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\newpastepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\newpastepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\unittest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\pastebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\pastebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\pastebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\mytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\mytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\newpastepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\newpastepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|e:\\study\\tpo_2\\tpo_1sem\\lab_9\\lb9\\lb9\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A9D454E7-5034-4FF1-A226-F7BCDAF22BFD}|lb9\\lb9.csproj|solutionrelative:lb9\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NewPastePage.cs",
               "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\NewPastePage.cs",
               "RelativeDocumentMoniker": "lb9\\NewPastePage.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pastebin.cs",
               "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\Pastebin.cs",
               "RelativeDocumentMoniker": "lb9\\Pastebin.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "lb9\\Pastebin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:18:02.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T19:18:02.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UnitTest3.cs",
               "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\UnitTest3.cs",
               "RelativeDocumentMoniker": "lb9\\UnitTest3.cs",
@@ -81,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UnitTest2.cs",
               "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\UnitTest2.cs",
               "RelativeDocumentMoniker": "lb9\\UnitTest2.cs",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "lb9\\UnitTest2.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:14:00.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T19:14:00.646Z"
             },
             {
               "$type": "Document",
@@ -102,18 +100,17 @@
               "RelativeToolTip": "lb9\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-26T19:13:54.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T19:13:54.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "myTest.cs",
               "DocumentMoniker": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\myTest.cs",
               "RelativeDocumentMoniker": "lb9\\myTest.cs",
               "ToolTip": "E:\\STUDY\\TPO_2\\TPO_1SEM\\Lab_9\\lb9\\lb9\\myTest.cs",
               "RelativeToolTip": "lb9\\myTest.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T19:10:53.366Z",
               "EditorCaption": ""
@@ -128,8 +125,7 @@
               "RelativeToolTip": "lb9\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:13:59.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T19:13:59.655Z"
             }
           ]
         }
